@@ -1,0 +1,10 @@
+C:\Users\益鑫\Desktop\点名\点名程序第四版\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\益鑫\Desktop\点名\点名程序第四版\obj\Debug\WindowsApplication4.Form1.resources
+C:\Users\益鑫\Desktop\点名\点名程序第四版\obj\Debug\WindowsApplication4.Resources.resources
+C:\Users\益鑫\Desktop\点名\点名程序第四版\obj\Debug\点名软件.vbproj.GenerateResource.Cache
+C:\Users\益鑫\Desktop\点名\点名程序第四版\obj\Debug\VBNET-2-8-2.exe
+C:\Users\益鑫\Desktop\点名\点名程序第四版\obj\Debug\VBNET-2-8-2.xml
+C:\Users\益鑫\Desktop\点名\点名程序第四版\obj\Debug\VBNET-2-8-2.pdb
+C:\Users\益鑫\Desktop\点名\点名程序第四版\bin\Debug\VBNET-2-8-2.exe
+C:\Users\益鑫\Desktop\点名\点名程序第四版\bin\Debug\VBNET-2-8-2.pdb
+C:\Users\益鑫\Desktop\点名\点名程序第四版\bin\Debug\VBNET-2-8-2.xml
